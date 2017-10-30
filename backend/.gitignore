@@ -1,2 +1,5 @@
 node_modules
 *.log
+*.lock
+*.tmp
+*.class
